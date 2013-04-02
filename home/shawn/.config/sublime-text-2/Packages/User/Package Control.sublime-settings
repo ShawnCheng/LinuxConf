@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Clipboard History",
+		"Display Functions (Java)",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"jQuery Snippets pack",
+		"Package Control",
+		"Prefixr",
+		"SublimeCodeIntel",
+		"SublimeJava"
+	],
+	"repositories":
+	[
+		"git://github.com/JulianEberius/Subclim.git"
+	]
+}

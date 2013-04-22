@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="default_profile" mtime="1366636169" type="string">
+		<stringvalue>Default</stringvalue>
+	</entry>
+	<entry name="profile_list" mtime="1366636169" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>Default</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>Profile0</stringvalue>
+		</li>
+	</entry>
+	<entry name="active_encodings" mtime="1365608627" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>UTF-8</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>current</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>GBK</stringvalue>
+		</li>
+	</entry>
+</gconf>

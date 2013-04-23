@@ -1,4 +1,4 @@
-#Mon Mar 25 14:31:22 CST 2013
+#Tue Apr 23 11:56:31 CST 2013
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.enabled=true
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_new_line_in_empty_anonymous_type_declaration=insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_after_label=do not insert
@@ -17,6 +17,7 @@
 /instance/org.eclipse.cdt.ui/asm_label=207,191,173
 /instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
 /instance/org.eclipse.jst.j2ee.webservice.ui/areThereWebServices=false
+/instance/org.eclipse.ui.views.log/show_filter_text=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.brace_position_for_constructor_declaration=end_of_line
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_opening_angle_bracket_in_type_arguments=do not insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_closing_angle_bracket_in_parameterized_type_reference=do not insert
@@ -31,6 +32,8 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_enum_constants=0
 @org.eclipse.wst.xml.core=1.1.602.v201201091944
 /instance/org.eclipse.m2e.discovery/org.eclipse.m2e.discovery.pref.projects=
+/instance/org.eclim/org.eclim.project.version=1.0
+/instance/org.eclim/org.eclim.java.checkstyle.onvalidate=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_comma_in_method_invocation_arguments=insert
 /instance/org.eclipse.jdt.ui/formatter_profile=_ShawnCheng
 /instance/org.eclipse.jdt.ui/sp_cleanup.add_missing_override_annotations=true
@@ -63,6 +66,7 @@
 /instance/org.eclipse.jdt.ui/sp_cleanup.remove_trailing_whitespaces_all=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_angle_bracket_in_parameterized_type_reference=do not insert
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_before_comma_in_constructor_declaration_throws=do not insert
+/instance/org.eclipse.ui.views.log/orderType=2
 /instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="javax.ws.rs.core.Response$StatusType"><rhs name\="javax.ws.rs.core.Response$Status"/></lhs><lhs name\="java.lang.Enum"><rhs name\="jp.co.worksap.lms.scorm.authoring.entity.enums.FolderType"/><rhs name\="jp.co.worksap.lms.scorm.authoring.entity.enums.AccountType"/></lhs><lhs name\="jp.co.worksap.lms.scorm.authoring.entity.enums.FolderType"><rhs name\="jp.co.worksap.lms.scorm.authoring.entity.enums.FolderType"/></lhs><lhs name\="jp.co.worksap.lms.scorm.authoring.entity.enums.AccountType"><rhs name\="jp.co.worksap.lms.scorm.authoring.entity.enums.AccountType"/></lhs></history>
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.alignment_for_parameters_in_method_declaration=16
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.typeParameter.enabled=true
@@ -121,12 +125,14 @@
 @org.eclipse.jdt.ui=3.7.2.v20120109-1427
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_paren_in_switch=insert
+/instance/org.eclim/org.eclim.java.import.package_separation_level=1
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_question_in_wildcard=do not insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.never_indent_block_comments_on_first_column=false
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.alignment_for_assignment=0
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_after_opening_paren_in_method_declaration=do not insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_opening_angle_bracket_in_parameterized_type_reference=do not insert
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.DeprecatedHighlighting.strikethrough=false
+/instance/org.eclim/org.eclim.java.doc.dest=doc
 /instance/org.eclipse.wst.jsdt.ui/java_doc_tag=255,231,146
 /instance/org.eclipse.wst.xml.ui/tagBorder=\#CFBFAD | null | false | false | false | false
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.indent_switchstatements_compare_to_switch=false
@@ -176,7 +182,7 @@
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.ConstantHighlighting.color=\#CFBFAD
 @org.eclipse.wst.xml.ui=1.1.202.v201112071516
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.keep_else_statement_on_same_line=false
-/instance/org.eclipse.ui.ide/platformState=1364192933031
+/instance/org.eclipse.ui.ide/platformState=1366688844821
 /instance/org.eclipse.jdt.ui/useQuickDiffPrefPage=true
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.staticField.color=207,191,173
 @org.eclipse.ui.browser=3.3.101.v20111019-1723
@@ -195,7 +201,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.indent_switchstatements_compare_to_cases=true
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.alignment_for_superclass_in_type_declaration=16
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.brace_position_for_switch=end_of_line
-/instance/org.eclipse.wst.sse.core/task-tag-projects-already-scanned=batch-server,dataaccess,dataaccess-gluster,dataaccess-hibernate,dataaccess-test-support,entity,front,pressure-test-support,service,site,test-supporter
+/instance/org.eclipse.wst.sse.core/task-tag-projects-already-scanned=batch-server,dataaccess,dataaccess-gluster,dataaccess-hibernate,dataaccess-test-support,entity,front,pressure-test-support,service,site,test-supporter,pif-generator
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_after_comma_in_multiple_field_declarations=insert
 /instance/org.eclipse.wst.xml.ui/doctypeExternalId=\#A7EC21 | null | false | false | false | false
 /instance/org.eclipse.wst.jsdt.debug.core/org.eclipse.wst.jsdt.debug.core.suspend_on_all_script_loads=false
@@ -227,6 +233,7 @@
 /configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=false
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_before_closing_paren_in_cast=do not insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_comma_in_allocation_expression=insert
+/instance/org.eclipse.ui.views.log/groupBy=0
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.alignment_for_superinterfaces_in_enum_declaration=16
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_paren_in_catch=insert
 /instance/org.eclipse.jdt.ui/sp_cleanup.remove_unused_private_methods=true
@@ -242,6 +249,7 @@
 /instance/org.eclipse.wst.xml.ui/commentBorder=\#75715E | null | false | false | false | false
 /instance/com.adobe.flexide.as.core/asOperatorColor=\#FF007F
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_after_opening_bracket_in_array_reference=do not insert
+/instance/org.eclim/org.eclim.java.logging.template=logger.gst
 /instance/com.adobe.flexide.css.core/cssNamespaceColor=\#CFBFAD
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.blank_lines_between_import_groups=1
 /instance/org.eclipse.wst.jsdt.ui/java_comment_task_tag_bold=false
@@ -277,9 +285,10 @@
 /instance/org.eclipse.wst.ws.service.policy/org.eclipse.wst.ws.service.policy.ui.servicepols.wsiprofilecomp.wsiap.defaultProtocol=http\://schemas.xmlsoap.org/wsdl/soap/
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_closing_paren_in_constructor_declaration=do not insert
 /instance/org.eclipse.cdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
-/instance/org.eclipse.epp.usagedata.recording/org.eclipse.epp.usagedata.recording.last-upload=1364192959901
+/instance/org.eclipse.epp.usagedata.recording/org.eclipse.epp.usagedata.recording.last-upload=1366615060608
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_at_in_annotation=do not insert
 /instance/org.eclipse.cdt.ui/org.eclipse.cdt.internal.ui.text.doctools.recognizedTag=255,231,146
+/instance/org.eclim/org.eclim.java.checkstyle.properties=
 /instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.color=167,236,33
 /instance/org.eclipse.jdt.ui/java_multi_line_comment=117,113,94
 /instance/org.eclipse.wst.xml.ui/piContent=\#CFBFAD | null | false | false | false | false
@@ -308,12 +317,14 @@
 /instance/org.eclipse.wst.css.ui/MEDIA=\#FF007F | null | false | false | false | false
 /instance/org.eclipse.mylyn.monitor.ui/org.eclipse.mylyn.monitor.activity.tracking.enabled.checked=true
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.alignment_for_arguments_in_explicit_constructor_call=16
+/instance/org.eclim/org.eclim.java.doc.packagenames=
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.blank_lines_after_imports=1
 @org.eclipse.egit.core=2.2.0.201212191850-r
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_new_line_in_empty_enum_declaration=insert
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.DeprecatedHighlighting.enabled=true
 /instance/org.eclipse.jdt.ui/content_assist_proposals_background=255,255,255
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_before_closing_angle_bracket_in_parameterized_type_reference=do not insert
+/instance/org.eclim/org.eclim.java.import.exclude=["^com\\.sun\\..*","^sunw\\?\\..*"]
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.alignment_for_conditional_expression=80
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_union_type_in_multicatch=16
 /instance/org.eclipse.wst.xml.ui/tagName=\#CFBFAD | null | false | false | false | false
@@ -395,6 +406,7 @@
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_after_colon_in_for=insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_in_empty_enum_constant=insert
 /instance/org.eclipse.datatools.sqltools.sqleditor/Identifier=0,0,0,0,0,167,236,33
+/instance/org.eclim/org.eclim.java.doc.sourcepath=
 /instance/org.eclipse.wst.sse.ui/useQuickDiffPrefPage=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_comma_in_type_arguments=do not insert
 /instance/org.eclipse.jdt.ui/sp_cleanup.qualify_static_method_accesses_with_declaring_class=false
@@ -428,6 +440,7 @@
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_before_closing_bracket_in_array_reference=do not insert
 /instance/com.adobe.flexide.css.core/cssImportColor=\#FF007F
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_after_comma_in_type_parameters=insert
+/instance/org.eclim/org.eclim.user.name=
 /instance/org.epic.perleditor/AbstractTextEditor.Color.Foreground=207,191,173
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.SuperGlobalHighlighting.enabled=true
 /instance/org.eclipse.jst.jsp.ui/SCRIPT_AREA_BORDER=\#F9FAF4 | null | false | false | false | false
@@ -497,11 +510,14 @@
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_new_line_before_closing_brace_in_objlit_initializer=insert
 /instance/org.eclipse.debug.core/prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<watchExpressions>\n<expression enabled\="true" text\="navigationPage.canOperateCreation()"/>\n</watchExpressions>\n
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.align_type_members_on_columns=false
+/instance/org.eclim/org.eclim.java.logging.impl=commons-logging
 /instance/org.eclipse.jdt.ui/sp_cleanup.sort_members_all=false
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.StaticMethodHighlighting.color=\#A7EC21
+/instance/org.eclipse.ui.views.log/orderValue=-1
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_before_closing_bracket_in_array_allocation_expression=do not insert
 /instance/org.eclipse.jdt.ui/sp_cleanup.correct_indentation=false
 /instance/com.adobe.flexide.css.core/cssPropertyValueColor=\#ECE47E
+/instance/org.eclim/org.eclim.java.doc.version=
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.InternalClassHighlighting.enabled=true
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_new_line_in_empty_block=insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.comment.indent_root_tags=true
@@ -583,6 +599,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_in_empty_annotation_declaration=insert
 /instance/org.eclipse.jdt.ui/sp_cleanup.remove_private_constructors=true
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.lineSplit=80
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.USER_HOME=/home/shawn
 /instance/org.python.pydev/COMMENT_COLOR=117,113,94
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_before_catch_in_try_statement=do not insert
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_after_ellipsis=insert
@@ -668,6 +685,10 @@
 /instance/org.eclipse.ant.ui/org.eclipse.ant.ui.constantStringsColor=236,228,126
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.indent_statements_compare_to_block=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.number_of_empty_lines_to_preserve=1
+/instance/org.eclim/org.eclim.java.junit.output_dir=
+/instance/org.eclipse.ui.views.log/column4=150
+/instance/org.eclipse.ui.views.log/column3=150
+/instance/org.eclipse.ui.views.log/column2=300
 /instance/org.codehaus.groovy.eclipse.ui/groovy.editor.highlight.javakeywords.color=255,0,127
 @org.eclipse.wst.ws.service.policy=1.0.303.v201009221810
 /instance/org.eclipse.jst.jsp.ui/jsp_content=\#CFBFAD | null | false | false | false | false
@@ -711,6 +732,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_paren_in_constructor_declaration=do not insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_opening_brace_in_array_initializer=insert
 /instance/org.eclipse.wst.css.core/indentationSize=2
+/instance/org.eclipse.ui.views.log/activate=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.enabled=true
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.continuation_indentation_for_objlit_initializer=1
 /instance/com.adobe.flexide.css.core/cssFontFaceColor=\#FF007F
@@ -745,6 +767,7 @@
 /instance/org.eclipse.jdt.ui/sp_cleanup.use_this_for_non_static_method_access_only_if_necessary=true
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_before_colon_in_case=do not insert
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_before_closing_paren_in_method_declaration=do not insert
+@org.eclim=1.7.13
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.blank_lines_before_imports=1
 /instance/org.eclipse.jst.jsp.ui/tagAttributeEquals=\#CFBFAD | null | false | false | false | false
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.comment.indent_parameter_description=true
@@ -810,7 +833,7 @@
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.alignment_for_expressions_in_array_initializer=16
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_before_opening_brace_in_enum_constant=insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_comma_in_constructor_declaration_throws=insert
-/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding contextId\="org.eclipse.wst.sse.ui.structuredTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.wst.sse.ui.structuredTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.core.runtime.xml" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.core.runtime.xml" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.datatools.sqltools.SQLEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.datatools.sqltools.SQLEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.jdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.wst.jsdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.jdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+P"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+P"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+T"/>\n<keyBinding contextId\="org.eclipse.wst.jsdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+T"/>\n<keyBinding contextId\="org.eclipse.wst.jsdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+T"/>\n<keyBinding commandId\="org.eclipse.wst.jsdt.ui.navigate.open.type" contextId\="org.eclipse.wst.jsdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+P"/>\n<keyBinding commandId\="org.eclipse.jdt.ui.navigate.open.type" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+P"/>\n</org.eclipse.ui.commands>
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding commandId\="org.eclipse.ui.navigate.previousTab" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+1"/>\n<keyBinding commandId\="org.eclipse.ui.navigate.nextTab" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+2"/>\n<keyBinding contextId\="org.eclipse.wst.sse.ui.structuredTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.wst.sse.ui.structuredTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.core.runtime.xml" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.core.runtime.xml" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.datatools.sqltools.SQLEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.datatools.sqltools.SQLEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.jdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.wst.jsdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.jdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+P"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+P"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+P"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+T"/>\n<keyBinding contextId\="org.eclipse.wst.jsdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+T"/>\n<keyBinding contextId\="org.eclipse.wst.jsdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+T"/>\n<keyBinding commandId\="org.eclipse.wst.jsdt.ui.navigate.open.type" contextId\="org.eclipse.wst.jsdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+P"/>\n<keyBinding commandId\="org.eclipse.jdt.ui.navigate.open.type" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+P"/>\n<keyBinding commandId\="SpiltEditor.command" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+1">\n<parameter id\="orientation" value\="horizontally"/>\n</keyBinding>\n<keyBinding commandId\="SpiltEditor.command" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+2">\n<parameter id\="orientation" value\="vertically"/>\n</keyBinding>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+W"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+W"/>\n<keyBinding commandId\="org.eclipse.ui.window.newEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+W E"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+F6"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+F6"/>\n<keyBinding commandId\="org.eclipse.ui.window.previousEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+,"/>\n<keyBinding commandId\="org.eclipse.ui.window.nextEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+;"/>\n</org.eclipse.ui.commands>
 /instance/org.eclipse.jdt.ui/sp_cleanup.sort_members=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.join_lines_in_comments=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_at_in_annotation_type_declaration=do not insert
@@ -926,6 +949,7 @@
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_after_opening_paren_in_parenthesized_expression=do not insert
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_before_opening_brace_in_anonymous_type_declaration=insert
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_before_opening_paren_in_constructor_declaration=do not insert
+/instance/org.eclim/org.eclim.java.run.jvmargs=[]
 /instance/org.eclipse.jst.jsp.ui/tagAttributeValue=\#ECE47E | null | false | false | false | false
 /instance/org.eclipse.wst.xml.ui/tagAttributeEquals=\#CFBFAD | null | false | false | false | false
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.alignment_for_binary_expression=16
@@ -956,6 +980,7 @@
 /instance/org.python.pydev/DECORATOR_COLOR=207,191,173
 /instance/org.eclipse.jdt.ui/editor_save_participant_org.eclipse.jdt.ui.postsavelistener.cleanup=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.indent_empty_lines=false
+/instance/org.eclim/org.eclim.user.email=
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.number_of_blank_lines_at_beginning_of_method_body=0
 /instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.color=207,191,173
 @org.eclipse.core.resources=3.7.101.v20120125-1505
@@ -988,8 +1013,8 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_colon_in_case=do not insert
 /instance/org.eclipse.jdt.ui/sp_cleanup.add_missing_override_annotations_interface_methods=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.color=191,164,164
-/instance/org.eclipse.cdt.ui/semanticHighlighting.staticMethod.color=167,236,33
 @org.eclipse.m2e.discovery=1.2.0.20120903-1050
+/instance/org.eclipse.cdt.ui/semanticHighlighting.staticMethod.color=167,236,33
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_conditional_expression=80
 /instance/org.eclipse.wst.jsdt.ui/org.eclipse.jface.textfont=1|Monaco|8.0|0|GTK|1|;
 @org.eclipse.ui.editors=3.7.0.v20110928-1504
@@ -1003,6 +1028,7 @@
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_new_line_after_annotation_on_field=insert
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_after_comma_in_constructor_declaration_throws=insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_between_empty_parens_in_constructor_declaration=do not insert
+/instance/org.eclim/org.eclim.java.checkstyle.config=
 /instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.brace_position_for_anonymous_type_declaration=end_of_line
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_comma_in_constructor_declaration_throws=do not insert
@@ -1077,12 +1103,14 @@ file_export_version=3.0
 /instance/org.eclipse.jdt.ui/semanticHighlighting.enum.color=248,248,242
 /instance/com.adobe.flexide.as.core/asStringColor=\#ECE47E
 /instance/org.eclipse.wst.css.ui/ID=\#A7EC21 | null | false | false | false | false
+/instance/org.eclim/org.eclim.java.run.mainclass=none
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.indentation.size=4
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_method_declaration=0
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_bracket_in_array_type_reference=do not insert
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.alignment_for_arguments_in_method_invocation=16
 /instance/com.adobe.flexide.as.core/asVarColor=\#CFBFAD
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_after_binary_operator=insert
+@org.eclipse.ui.views.log=1.0.200.v20110404
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_prefix_operator=do not insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_closing_angle_bracket_in_type_arguments=insert
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_before_opening_brace_in_switch=insert
@@ -1158,6 +1186,7 @@ file_export_version=3.0
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_after_comma_in_method_declaration_parameters=insert
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.insert_space_before_opening_paren_in_try=insert
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.InternalClassHighlighting.color=\#52E3F6
+/instance/org.eclim/org.eclim.project.copyright=
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.brace_position_for_enum_constant=end_of_line
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.use_tabs_only_for_leading_indentations=false
 /instance/org.eclipse.team.cvs.ui/pref_first_startup=false
@@ -1169,8 +1198,8 @@ file_export_version=3.0
 /instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1361161081633" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\n<vm id\="1361161081633" name\="jdk1.6.0_39" path\="/usr/share/jdk1.6.0_39"/>\n</vmType>\n</vmSettings>\n
 /instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Monaco|8.0|0|GTK|1|;
 /instance/org.python.pydev/SELF_COLOR=207,191,173
-/instance/org.eclipse.datatools.sqltools.sqleditor/Single-line=comment\=0,0,0,0,0,117,113,94
 /instance/org.eclipse.ui.editors/filteredSearchResultIndicationColor=216,216,216
+/instance/org.eclipse.datatools.sqltools.sqleditor/Single-line=comment\=0,0,0,0,0,117,113,94
 /instance/org.eclipse.jdt.ui/sp_cleanup.always_use_blocks=true
 /instance/org.eclipse.wst.xml.ui/tagAttributeValue=\#ECE47E | null | false | false | false | false
 /instance/org.eclipse.wst.jsdt.core/org.eclipse.wst.jsdt.core.formatter.insert_space_after_colon_in_assert=insert

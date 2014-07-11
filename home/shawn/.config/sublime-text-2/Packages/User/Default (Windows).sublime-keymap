@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+k", "ctrl+/"], "command": "set_mark" },
+	{ "keys": ["ctrl+j", "ctrl+d"], "command": "open_java_doc", "args": {"under_cursor": true } },
+	{ "keys": ["ctrl+j", "ctrl+s"], "command": "open_java_source", "args": {"under_cursor": true } },
+	{ "keys": ["ctrl+j", "ctrl+i"], "command": "import_java_class" }
+]

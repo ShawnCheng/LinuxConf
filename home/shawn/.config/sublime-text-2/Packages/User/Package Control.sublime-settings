@@ -1,0 +1,34 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AAAPackageDev",
+		"Alignment",
+		"BracketHighlighter",
+		"Clipboard History",
+		"CodeFormatter",
+		"ConvertToUTF8",
+		"CSV",
+		"DeleteBlankLines",
+		"Display Functions (Java)",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"jQuery Snippets pack",
+		"JSHint",
+		"Maven",
+		"Package Control",
+		"Prefixr",
+		"SideBarEnhancements",
+		"sublime-pascal",
+		"SublimeCodeIntel",
+		"SublimeGit",
+		"SublimeJava",
+		"SublimeLinter",
+		"TernJS",
+		"VAlign"
+	],
+	"repositories":
+	[
+	]
+}

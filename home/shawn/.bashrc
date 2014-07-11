@@ -56,7 +56,7 @@ match_lhs=""
 	&& type -P dircolors >/dev/null \
 	&& match_lhs=$(dircolors --print-database)
 
-if [[ $'\n'${match_lhs} == *$'\n'"TERM "${safe_term}* ]] ; then
+#if [[ $'\n'${match_lhs} == *$'\n'"TERM "${safe_term}* ]] ; then
 
 	# we have colors :-)
 
@@ -79,16 +79,26 @@ if [[ $'\n'${match_lhs} == *$'\n'"TERM "${safe_term}* ]] ; then
 	alias dir="dir --color=auto"
 	alias grep="grep --colour=auto"
 
-else
+	alias glg='git log --graph --pretty=format:"%C(auto)%h -%d %s %C(green)(%cr) %C(bold blue)<%an>"'
+	alias glga='git log --graph --all --pretty=format:"%C(auto)%h -%d %s %C(green)(%cr) %C(bold blue)<%an>"'
+	alias la='ls -la --color=auto'
+	alias gpusho='git push origin "$(current_branch)"'
+	alias rdcjksh='rdesktop -g 1440x900 -u CJKShanghai 172.26.142.229'
+	alias mci='mvn clean install'
+	alias mcisd='mvn clean source:jar javadoc:jar install -DskipTests'
+	alias mdsd='mvn source:jar javadoc:jar deploy -DskipTests'
+	alias svnac='smbget smb://cheng_x:cheng_x@masqat/dubai_link/svn.htaccess -o ~/wap-workspace/d2b-snippet/svn.htaccess'
+
+#else
 
 	# show root@ when we do not have colors
 
-	PS1="\u@\h \w \$([[ \$? != 0 ]] && echo \":( \")\$ "
+#	PS1="\u@\h \w \$([[ \$? != 0 ]] && echo \":( \")\$ "
 
 	# Use this other PS1 string if you want \W for root and \w for all other users:
 	# PS1="\u@\h $(if [[ ${EUID} == 0 ]]; then echo '\W'; else echo '\w'; fi) \$([[ \$? != 0 ]] && echo \":( \")\$ "
 
-fi
+#fi
 
 PS2="> "
 PS3="> "

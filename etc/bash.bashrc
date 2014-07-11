@@ -69,7 +69,7 @@ if [[ $'\n'${match_lhs} == *$'\n'"TERM "${safe_term}* ]] ; then
 		fi
 	fi
 
-	source /home/shawn/.git-prompt.sh
+	source /home/public/.git-prompt.sh
 	source /usr/share/git/completion/git-completion.bash
 	PS1="[\[\033[00;31m\]\u@\h\[\033[00;36m\] \w \[\033[00;33m\]\$(__git_ps1 \"(%s)\") \[\033[00m\]] \$([[ \$? != 0 ]] && echo \"\[\033[01;31m\]:( \")\n\[\033[00;31m\]#\[\033[00m\] "
 

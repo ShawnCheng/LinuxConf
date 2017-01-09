@@ -1,9 +1,9 @@
 [user]
-	name = Xiao Cheng
-	email = cheng_x@worksap.co.jp
+    name = Xiao Cheng
+    email = cheng_x@worksap.co.jp
 [color]
-	ui = true
+    ui = true
 [core]
-	autocrlf = input
-	safecrlf = warn
-	editor = vim
+    autocrlf = input
+    safecrlf = warn
+    editor = vim

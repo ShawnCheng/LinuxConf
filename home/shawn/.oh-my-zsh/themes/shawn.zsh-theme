@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-local user_char="%{$fg_bold[green]%}➜%{$reset_color%}"
+local user_char="%{$fg_bold[green]%}➜ %{$reset_color%}"
 local root_user_char="%{$fg_bold[red]%}⚡%{$reset_color%}"
 local ret_status="%(?:%{$fg_bold[green]%}%{$reset_color%}:%{$fg_bold[red]%}:(%{$reset_color%})"
 
@@ -10,9 +10,9 @@ RPROMPT='${ret_status}'
 # Output additional information about user/host, paths and repos
 precmd() {
     if [[ $EUID -eq 0 ]]; then
-        print -P '${root_user_char} %{$fg[red]%}%n@%m%{$reset_color%} %{$fg[cyan]%}%~%{$reset_color%} $(git_prompt_info)'
+        print -P '${root_user_char}%{$fg[red]%}%n@%m%{$reset_color%} %{$fg[cyan]%}%~%{$reset_color%} $(git_prompt_info)'
     else
-        print -P '${user_char} %{$fg[green]%}%n@%m%{$reset_color%} %{$fg[cyan]%}%~%{$reset_color%} $(git_prompt_info)'
+        print -P '${user_char}%{$fg[green]%}%n@%m%{$reset_color%} %{$fg[cyan]%}%~%{$reset_color%} $(git_prompt_info)'
     fi
 }
 

@@ -22,8 +22,8 @@ fi
 
 
 # Rewrite JAVA environment
-JAVA_HOME=/opt/java6
-M2_HOME=/opt/maven
+JAVA_HOME=/opt/jdk1.8.0_181
+M2_HOME=/opt/apache-maven-3.5.4
 MAVEN_OPTS='-Xmx512m -XX:MaxPermSize=1024m -Xmx1024m'
 PATH="$PATH:$JAVA_HOME/bin:$JAVA_HOME/jre/bin:$M2_HOME/bin"
 

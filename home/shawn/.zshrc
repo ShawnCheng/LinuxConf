@@ -53,6 +53,9 @@ DISABLE_UNTRACKED_FILES_DIRTY="true"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git mvn)
 
+# Disable oh-my-zsh insecure source load, when root user is referencing common user's zsh setting
+export ZSH_DISABLE_COMPFIX=true
+
 source $ZSH/oh-my-zsh.sh
 source $ZSH/custom/plugins/mvn-in-colors/mvn-in-colors.zsh
 

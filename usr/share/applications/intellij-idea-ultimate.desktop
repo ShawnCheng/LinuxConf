@@ -1,11 +1,12 @@
 [Desktop Entry]
 Version=1.0
-Name=IntelliJ IDEA Ultimate
-Exec=/opt/idea-IU-182.4323.46/bin/idea.sh
-Comment=IntelliJ IDEA: The Java IDE for Professional Developers by JetBrains
-Icon=/opt/idea-IU-182.4323.46/bin/idea.png
 Type=Application
+Name=IntelliJ IDEA Ultimate Edition
+Icon=/opt/idea-IU-182.4323.46/bin/idea.png
+Exec="/opt/idea-IU-182.4323.46/bin/idea.sh" %f
+Comment=Capable and Ergonomic IDE for JVM
+Categories=Development;IDE;
 Terminal=false
+StartupWMClass=jetbrains-idea
 Encoding=UTF-8
-Categories=Java;Development;IDE
 GenericName=IDE
